@@ -14,6 +14,7 @@ var langObj = {
 "textExistTags":"已建立的標籤",
 "textFilter":"篩選",
 "textGeneral":"概要",
+"textGo":"走",
 "textHandler":"負責人",
 "textHide":"離開",
 "textHigh":"高",
