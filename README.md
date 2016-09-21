@@ -1,6 +1,10 @@
 mantiskanban
 ============
 
+Fork used to include Brazilian Portuguese Language.
+
+* Incluída tradução para pt-Br
+
 Mantis Kanban that uses ajax and mantisconnect
 
 LIVE DEMO!!! http://mantiskanban.com/mantisbt/mantiskanban/
