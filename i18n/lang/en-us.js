@@ -14,6 +14,7 @@ var langObj = {
 "textExistTags":"Add Existing",
 "textFilter":"Select Filter",
 "textGeneral":"General",
+"textGo":"Go",
 "textHandler":"Handler",
 "textHide":"Hide",
 "textHigh":"High",
